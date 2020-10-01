@@ -1,0 +1,9 @@
+    apiKey : ''
+    apiSecretKey : ''
+    accessToken : ''
+    accessTokenSecret : ''
+
+    client_id = ''
+    client_secret = '' 
+    username = ''
+    password = ''
